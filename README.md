@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pranav
-- 👀 I’m interested in Python,HTML5,CSS,JS,SQL
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Python,HTML5,CSS,JS,SQL,Tableau
+- 🌱 I’m currently learning Pandas
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me - pranav28sh@yahoo.com
 
